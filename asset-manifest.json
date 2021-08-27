@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TextUtils-app/static/css/main.afb00eda.chunk.css",
-    "main.js": "/TextUtils-app/static/js/main.6d5e0f37.chunk.js",
-    "main.js.map": "/TextUtils-app/static/js/main.6d5e0f37.chunk.js.map",
+    "main.js": "/TextUtils-app/static/js/main.84625106.chunk.js",
+    "main.js.map": "/TextUtils-app/static/js/main.84625106.chunk.js.map",
     "runtime-main.js": "/TextUtils-app/static/js/runtime-main.5eb7647e.js",
     "runtime-main.js.map": "/TextUtils-app/static/js/runtime-main.5eb7647e.js.map",
     "static/js/2.adc72864.chunk.js": "/TextUtils-app/static/js/2.adc72864.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5eb7647e.js",
     "static/js/2.adc72864.chunk.js",
     "static/css/main.afb00eda.chunk.css",
-    "static/js/main.6d5e0f37.chunk.js"
+    "static/js/main.84625106.chunk.js"
   ]
 }
